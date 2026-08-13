@@ -1,0 +1,47 @@
+LabVIEWCLI started logging in file:  /tmp/lvtemporary_697759.log
+Using LabVIEW: "/usr/local/natinst/LabVIEW-2026-64/labviewprofull"
+LabVIEW launched successfully.
+Connection established with LabVIEW at port number 3363.
+
+Operation output: 
+#### Starting Mass Compile: Thu, Aug 13, 2026 10:03:24 PM
+  Directory: "/workspace"
+/workspace/.github/labview/PrintToSingleFileHtml/PrintToSingleFileHtml.lvclass (PrintToSingleFileHtml.lvclass)
+    - The class expected to be at "/workspace/.github/labview/CoreOperation/CoreOperation.lvclass" was loaded from "/usr/local/natinst/share/nilvcli/Operations/CoreOperation/CoreOperation.lvclass".
+Search failed to find "LV AI Core.lvlib:XML generator.vi" previously from "/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/LV AI Core/XML generator.vi"  +=+   Caller: "VI to XML.vi"
+  ### Bad VI:    "VI to XML.vi"	Path="/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/VI to XML.vi" 
+Search failed to find "LV AI Core.lvlib:VI generator.vi" previously from "/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/LV AI Core/VI generator.vi"  +=+   Caller: "XML to VI.vi"
+  ### Bad VI:    "XML to VI.vi"	Path="/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/XML to VI.vi" 
+Search failed to find "DAQmx Read (Counter DBL 1Chan 1Samp).vi" previously from "/<vilib>/DAQmx/read.llb/DAQmx Read (Counter DBL 1Chan 1Samp).vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Create Channel (CI-Position-Angular Encoder).vi" previously from "/<vilib>/DAQmx/create/channels.llb/DAQmx Create Channel (CI-Position-Angular Encoder).vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Timing (Sample Clock).vi" previously from "/<vilib>/DAQmx/configure/timing.llb/DAQmx Timing (Sample Clock).vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Read (Analog 1D Wfm NChan NSamp).vi" previously from "/<vilib>/DAQmx/read.llb/DAQmx Read (Analog 1D Wfm NChan NSamp).vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Create Channel (AI-Voltage-Basic).vi" previously from "/<vilib>/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Voltage-Basic).vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Timing.vi" previously from "/<vilib>/DAQmx/configure/timing.llb/DAQmx Timing.vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Clear Task.vi" previously from "/<vilib>/DAQmx/configure/task.llb/DAQmx Clear Task.vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Stop Task.vi" previously from "/<vilib>/DAQmx/configure/task.llb/DAQmx Stop Task.vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Read.vi" previously from "/<vilib>/DAQmx/read.llb/DAQmx Read.vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Start Task.vi" previously from "/<vilib>/DAQmx/configure/task.llb/DAQmx Start Task.vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+Search failed to find "DAQmx Create Virtual Channel.vi" previously from "/<vilib>/DAQmx/create/channels.llb/DAQmx Create Virtual Channel.vi"  +=+   Caller: "Analog Data Acquisition and Digital Filtering.vi"
+  ### Bad VI:    "Analog Data Acquisition and Digital Filtering.vi"	Path="/workspace/Analog Data Acquisition and Digital Filtering/Analog Data Acquisition and Digital Filtering.vi" 
+Search failed to find "DAQmx Create Task.vi" previously from "/<vilib>/DAQmx/create/task.llb/DAQmx Create Task.vi"  +=+   Caller: "Project 3.vi"
+Search failed to find "DAQmx Write (Analog 1D DBL 1Chan NSamp).vi" previously from "/<vilib>/DAQmx/write.llb/DAQmx Write (Analog 1D DBL 1Chan NSamp).vi"  +=+   Caller: "Project 3.vi"
+Search failed to find "DAQmx Create Channel (AO-Voltage-Basic).vi" previously from "/<vilib>/DAQmx/create/channels.llb/DAQmx Create Channel (AO-Voltage-Basic).vi"  +=+   Caller: "Project 3.vi"
+Search failed to find "DAQmx Write.vi" previously from "/<vilib>/DAQmx/write.llb/DAQmx Write.vi"  +=+   Caller: "Project 3.vi"
+  ### Bad VI:    "Project 3.vi"	Path="/workspace/DC Motor Position and Velocity Control by Encoder Feedback/Project 3.vi" 
+  ### Bad VI:    "Get Terminal Name with Device Prefix.vi"	Path="/workspace/Frequency Response and Experimental Transfer Function of a System/Get Terminal Name with Device Prefix.vi" 
+/workspace/Frequency Response and Experimental Transfer Function of a System/Get Terminal Name with Device Prefix.vi (Get Terminal Name with Device Prefix.vi)
+    - This VI needs a driver or toolkit component that is not found. Missing resource file "daqmx.rc".
+Search failed to find "DAQmx Start Trigger (Digital Edge).vi" previously from "/<vilib>/DAQmx/configure/trigger.llb/DAQmx Start Trigger (Digital Edge).vi"  +=+   Caller: "Project_2_VI.vi"
+Search failed to find "DAQmx Write (Analog Wfm 1Chan NSamp).vi" previously from "/<vilib>/DAQmx/write.llb/DAQmx Write (Analog Wfm 1Chan NSamp).vi"  +=+   Caller: "Project_2_VI.vi"
+Search failed to find "DAQmx Is Task Done.vi" previously from "/<vilib>/DAQmx/configure/task.llb/DAQmx Is Task Done.vi"  +=+   Caller: "Project_2_VI.vi"
+Search failed to find "DAQmx Trigger.vi" previously from "/<vilib>/DAQmx/configure/trigger.llb/DAQmx Trigger.vi"  +=+   Caller: "Project_2_VI.vi"
+  ### Bad VI:    "Get Terminal Name with Device Prefix.vi"	Path="/workspace/Frequency Response and Experimental Transfer Function of a System/Get Terminal Name with Device Prefix.vi" 
+  ### Bad VI:    "Project_2_VI.vi"	Path="/workspace/Frequency Response and Experimental Transfer Function of a System/Project_2_VI.vi" 
+/workspace/Frequency Response and Experimental Transfer Function of a System/Project_2_VI.vi (Project_2_VI.vi)
+    - This VI needs a driver or toolkit component that is not found. Missing resource file "daqmx.rc".
+  ### Bad VI:    "Server.vi"	Path="/workspace/Remote Analog and Digital Data Acquisition using TCP-IP/Server.vi" 
+#### Finished Mass Compile: Thu, Aug 13, 2026 10:03:28 PM
+
+MassCompile operation failed.
+
