@@ -126,7 +126,7 @@
       "message": "Delete Get Terminal Name with Device Prefix.vi",
       "author": "Sagar",
       "date": "2020-06-13T03:07:07Z",
-      "project": false,
+      "project": true,
       "dep_only": false
     },
     {
